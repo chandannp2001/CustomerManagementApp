@@ -96,7 +96,7 @@ public class CustomerDetailsServlet extends HttpServlet {
 		}
 		if (getAllCustomer.isEmpty()) {
 
-			req.setAttribute("Error", "No Customer Found.For search " + searchInput + " .");
+			req.setAttribute("Error", "No Customer Found.For search \"" + searchInput + "\" .");
 		} else {
 			req.setAttribute("message", "Result For Serach \"" + searchInput + "\" .");
 		}
