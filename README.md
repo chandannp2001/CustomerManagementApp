@@ -28,7 +28,7 @@ Prerequisites
 Setup Instructions
 
   1. Clone the Repository
-     git clone https://github.com/yourusername/customerManagement.git
+     git clone https://github.com/chandannp2001/CustomerManagementApp.git
     cd customerManagement
 
   2. Database Setup
